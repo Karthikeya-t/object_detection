@@ -43,3 +43,18 @@ class_id = 1, name = helmet, ap = 89.13%   	 (TP = 5509, FP = 626)
  IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
  mean average precision (mAP@0.50) = 0.904795, or 90.48 % 
 Total Detection Time: 83 Seconds
+
+# Predictions
+
+-yolo v3
+
+![](output_images/op2v3.png)
+-yolo v4
+![](output_images/yop2v4.png)
+
+-yolo v3
+![](output_images/op2v3.png)
+-yolo v4
+![](output_images/yop2v4.png)
+
+![](output_images/obj detection.mp4)
