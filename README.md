@@ -57,6 +57,6 @@ Total Detection Time: 83 Seconds
 -yolo v4
 ![](output_images/yop3v4.png)
 
-![](output1_yolov3.avi)
+![](output_images/output1_yolov3.avi)
 
 ![](output_images/obj detection.mp4)
