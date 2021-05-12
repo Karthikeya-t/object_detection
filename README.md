@@ -60,3 +60,6 @@ Total Detection Time: 83 Seconds
 ### Comparing Results
 
 ![](https://github.com/Karthikeya-t/object_detection/blob/main/output_images/yolov3%20v4.gif)
+
+video link https://www.youtube.com/watch?v=nXm2iX0s-8I
+
