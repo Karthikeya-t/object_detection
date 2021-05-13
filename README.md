@@ -8,6 +8,11 @@ yolo v3-https://colab.research.google.com/drive/1U3fYJkdETHIBuXHK4JYbBwb4Ogm-MWQ
 
 yolo v4-https://colab.research.google.com/drive/1pGcu73udbxcYlfyMWvaazG8x0qDHH5rL?usp=sharing
 
+# Medium Blog
+part 1-https://karthikeyatirumalasetty.medium.com/yolo-v3-v4-custom-object-detection-on-colab-part-1-43f35f3a7508
+
+part 2-https://karthikeyatirumalasetty.medium.com/yolo-v3-v4-custom-object-detection-on-colab-part-2-b0aac2df3628
+
 # Results
 ## yolo v3
 ```
